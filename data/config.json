@@ -1,3 +1,6 @@
 {
-    "playerSpriteUrl": "https://cdn-icons-png.flaticon.com/256/53/53283.png"
+    "playerSpriteUrl": "https://raw.githubusercontent.com/TakeToBrasil/testeprimeiro/main/player.png",
+    "logoPngUrl": "dddddd",
+    "chaoUrl": "https://raw.githubusercontent.com/TakeToBrasil/testeprimeiro/main/Ground.png",
+    "fundoUrl": "ddddd"
 }
